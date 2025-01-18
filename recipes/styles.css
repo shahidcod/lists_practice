@@ -1,0 +1,9 @@
+.flex{
+    display: flex;
+    background: peachpuff;
+    border: 4px solid brown;
+    margin: 0 500px 30px 500px;
+    box-sizing: border-box;
+    padding-left: 60px;
+    flex: 1;
+}
